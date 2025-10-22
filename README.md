@@ -27,7 +27,7 @@
 -Mapeamento completo da estrutura do website
 -Detecção de URLs ocultas
 
-#📊 Website Info Scanner
+# 📊 Website Info Scanner
 
 -Informações do domínio e IP
 -Análise de certificado SSL
