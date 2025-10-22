@@ -19,3 +19,26 @@
 - Testes de Cross-Site Scripting (XSS)
 - Varredura de caminhos sensíveis (admin, backup, logs)
 - Identificação de arquivos sensíveis expostos
+
+# 🌐 Website URL Scanner
+
+-Extração de todas URLs do site
+-Varredura profunda em todas as páginas
+-Mapeamento completo da estrutura do website
+-Detecção de URLs ocultas
+
+#📊 Website Info Scanner
+
+-Informações do domínio e IP
+-Análise de certificado SSL
+-Detecção de tecnologias utilizadas
+-Headers de segurança
+-Análise de cookies
+-Scanner de portas abertas
+
+# 🔧 IP Port Scanner
+
+-Varredura de portas TCP
+-Identificação de serviços
+-Detecção de portas abertas
+-Mapeamento de serviços expostos
